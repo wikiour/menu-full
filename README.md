@@ -1,5 +1,7 @@
 # Full Nav Menu
 
+###### This is the basic <a href="https://www.npmjs.com/package/full-menu">"full-menu"</a> version and does not contain additional modules and settings. If you want to get the full version with settings and modules, then use the npm i -D full-menu package. Here is a link to npm => <a href="https://www.npmjs.com/package/full-menu">"full-menu"</a> and to the GitHub repository <a href="https://github.com/wikiour/full-menu">"full-menu"</a>.
+
 If you are looking for a library to create a complete menu for your site, then "menu-full" might be a great choice for you. This library provides an easy and convenient way to create beautiful and functional menus on your web pages.
 
 One of the features of "menu-full" is its ease of use. No special programming knowledge is required to create a menu, as the library provides a simple and intuitive interface. All you need to do is just install the npm package and add it to your project. In your navigation menu, add the nav-menu class and then our script will do the rest. You can create menus with unlimited nested items, dropdowns, animations and more.
